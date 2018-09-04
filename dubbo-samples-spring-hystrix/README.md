@@ -1,14 +1,3 @@
-## dubbo spring hystrix sample
-
-### Start Provider
-
-Run `com.alibaba.dubbo.samples.annotation.AnnotationProvider`
-
-
-### Start Consumer
-
-Run `com.alibaba.dubbo.samples.annotation.AnnotationConsumer`
-
 ### Result
 
 0. Start provider
